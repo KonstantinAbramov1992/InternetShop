@@ -1,0 +1,28 @@
+.user-info {
+    margin: 10px 0;
+    background: #fafafa;
+    border: 1px solid silver;
+    padding: 20px 3%;
+    width: 94%;
+}
+
+.user-info .btn {
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+.user-image {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.user-image > form {
+    display: block;
+    margin: 30px 0 0 30px;
+}
+
+.user-image > img {
+    width: 300px;
+    height: auto;
+    object-fit: cover;
+}
